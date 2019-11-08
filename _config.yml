@@ -14,31 +14,31 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'your awesome name'
-NickName: 'your awesome nickname'
-webtitle: 'your awesome webtitle'
-bio: 'your awesome bio'
+name: '周恒'
+NickName: 'TKARCHER'
+webtitle: 'TKARCHER Blog'
+bio: '枯燥且无味'
 about: true
-aboutyou: 'your introduction'
+aboutyou: '一个喜欢计算机的化学生'
 portraits: '/assets/profile.jpeg' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
+  mail: '405986996@qq.com'
   weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
+  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='405986996'&site=qq&menu=yes
+  github: 'TKARCHER1108'
   Codepen: ''
-  weibo: ''
-  instagram: ''
-  Twitter: ''
+  weibo: 'TKARCHER'
+  instagram: 'TKARCHER'
+  Twitter: 'zhouheng'
   Dribbble: ''
-  Facebook: ''
-  Google: ''
-  zhihu: ''
+  Facebook: '周恒'
+  Google: 'heng zhou'
+  zhihu: 'TKARCHER'
   juejin: ''
-  twitch: ''
+  twitch: 'TKARCHER'
 
 # 分页
 paginate: 2

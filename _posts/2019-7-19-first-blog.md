@@ -2,7 +2,7 @@
 layout: 		post
 title: 			"我喜欢你!"
 subtitle: 		'婷宝'
-author: 		"周恒"
+author: 		"小周"
 color: 'rgb(154,133,255)'  
 cover: '../assets/first.png'  
 tags:

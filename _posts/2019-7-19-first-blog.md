@@ -1,7 +1,7 @@
 ---
 layout: 		post
-title: 			"第一次写博客!"
-subtitle: 		'生日博客'
+title: 			"我喜欢你!"
+subtitle: 		'wt'
 author: 		"周恒"
 color: 'rgb(154,133,255)'  
 cover: '../assets/first.png'  

@@ -1,8 +1,8 @@
 ---
 layout: 		post
 title: 			"我喜欢你!"
-subtitle: 		'wt'
-author: 		"婷宝"
+subtitle: 		'婷宝'
+author: 		"周恒"
 color: 'rgb(154,133,255)'  
 cover: '../assets/first.png'  
 tags:

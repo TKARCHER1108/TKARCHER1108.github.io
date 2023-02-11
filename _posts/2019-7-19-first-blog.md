@@ -3,7 +3,6 @@ layout:         post
 title:             "我喜欢你!"
 subtitle:         '冯媛'
 author:         "小周"
-date:   2023-02-12 05:21:00
 color: 'rgb(154,133,255)'  
 cover: '../assets/first.png'  
 tags:
